@@ -10,5 +10,5 @@
 	
 3.	Run Client
 	> ./Client [ Amount of transmission ]
-4.	
+
 	 
